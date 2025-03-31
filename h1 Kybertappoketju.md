@@ -60,11 +60,24 @@ Tehtävät ja tehtävänannon löytää osoitteesta https://terokarvinen.com/tun
 <BR>
 <BR>
 
+# a) Asenna Kali virtuaalikoneeseen.
 
+<BR>
+<BR>
 
+Tehty ennen onnistuneesti.
 
+<BR>
+<BR>
+<BR>
+<BR>
 
+# b) Irrota Kali-virtuaalikone verkosta. Todista testein, että kone ei saa yhteyttä Internetiin
 
+<BR>
+<BR>
+
+kuva tähä
 
 
 
