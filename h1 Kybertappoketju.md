@@ -20,8 +20,9 @@ Tehtävät ja tehtävänannon löytää osoitteesta https://terokarvinen.com/tun
 - Pajatson manipulointi (Rikos jota ei saa ikinä anteeksi!)
 
 <BR>
+<BR>
 
-## https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
+## Lockheed martinin IT käännös kill chain -mallista https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
 
 <BR>
 
@@ -30,8 +31,11 @@ Tehtävät ja tehtävänannon löytää osoitteesta https://terokarvinen.com/tun
 - Pähkinänkuoressa artikkelissa käydään läpi kill chain, mikä se on, miten se toimii ja siitä esimerkkejä.
 
 <BR>
+<BR>
 
 ## Santos et al: The Art of Hacking https://www.oreilly.com/videos/the-art-of/9780135767849/9780135767849-SPTT_04_00/
+
+<BR>
 
 - Active ja passive reconnaisance mitä ne ovat ja miten ne eroavat toisistaan.
 - Mikä on recon vaiheen tarkoitus, mitä löydetyllä tiedolla voidaan saavuttaa.
@@ -39,6 +43,7 @@ Tehtävät ja tehtävänannon löytää osoitteesta https://terokarvinen.com/tun
 - Viimeisessä videossa luotellaan skannaustyökaluja
 - Summasummarum: Videoissa opitaan porttiskannaamaan tehokkaasti.
 
+<BR>
 <BR>
 
 ## Esimerkki porttiskannauksen seuraamuksista https://finlex.fi/fi/oikeuskaytanto/korkein-oikeus/ennakkopaatokset/2003/36#OT2_OT1
