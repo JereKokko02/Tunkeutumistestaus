@@ -166,8 +166,8 @@ Tähän kohtaan tehtävät jäi kesken. Virtualboxin host adapteri ei lähtenyt 
 
 <BR>
 
-Nmap man https://linux.die.net/man/1/nmap
-https://tuomasvalkamo.com/PenTestCourse/week-2/
+- Nmap man https://linux.die.net/man/1/nmap
+- https://tuomasvalkamo.com/PenTestCourse/week-2/
 
 
 
