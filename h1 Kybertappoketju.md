@@ -77,7 +77,114 @@ Tehty ennen onnistuneesti.
 <BR>
 <BR>
 
-kuva tähä
+![image](https://github.com/user-attachments/assets/2cf8e5d2-eed5-4288-bb44-f463ea623576)
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+# c) Porttiskannaa 1000 tavallisinta tcp-porttia omasta koneestasi (nmap -T4 -A localhost).
+
+<BR>
+<BR>
+
+![image](https://github.com/user-attachments/assets/c13d8e55-d84e-4e6f-aaf1-4d55abadf1d3)
+
+<BR>
+
+Komennon parametrit:
+
+-T = timing, eli kuinka tiheään tahtiin nmap alkaa portteja skannaamaan.
+  - Arvot listattu nmapin verkkosivuilla osoitteessa: https://nmap.org/book/performance-timing-templates.html
+
+-A = Skannauksen laajuus.
+  - A eli Agressive tarkoittaa tässä tapauksessa sitä, että nmap pyrkii hakemaan skannattavasta laitteesta käyttöjärjestelmän, sen version, sekä pyrkii selvittäämään sen topologian.
+
+Localhost = Kohde, eli tässä tapauksessa paikallinen kone.
+
+<BR>
+
+Kaikki virtuaalikoneen portit on tällä hetkellä kiinni joten mitään yllättävää ei löydy.
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+# d) Asenna kaksi vapaavalintaista demonia ja skannaa uudelleen. Analysoi ja selitä erot.
+
+<BR>
+<BR>
+
+Asensin koneelle apache2 ja openssh-serverin.
+
+<BR>
+
+![image](https://github.com/user-attachments/assets/38493630-b83a-4f5a-bbb4-63dfb08b5ed2)
+
+<BR>
+
+Kun skannaa nmapillä koneen uudelleen huomaa että portit 22 ja 80 on auenneet. 80 on apache2 ja 22 on openssh.
+
+<BR>
+
+![image](https://github.com/user-attachments/assets/b19fbec7-7bba-41a1-a358-28ea1fc957b4)
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+# e) Asenna Metasploitable 2 virtuaalikoneeseen
+
+<BR>
+<BR>
+
+![image](https://github.com/user-attachments/assets/aa6f34cb-f85d-44d7-b8dc-22ffc3104514)
+
+<BR>
+
+Hieman huono kuva mutta ajaa asiansa. Asensin metaexploitablen virtualboxiin. Uusi kone (ei ISO:a Linux, other) kaikki muu täysin samoin mutta storage -> select existing storage -> ladattu metaexploitable 2.
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+# f) Tee koneiden välille virtuaaliverkko.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lähteet:
+
+Nmap man https://linux.die.net/man/1/nmap
 
 
 
