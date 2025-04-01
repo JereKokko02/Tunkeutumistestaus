@@ -1,13 +1,5 @@
 # Tehtävät ja tehtävänannon löytää osoitteesta https://terokarvinen.com/tunkeutumistestaus/
 
--
--
--
--
-
--
-
-
 <BR>
 <BR>
 <BR>
@@ -71,7 +63,6 @@
 # a) Asenna Kali virtuaalikoneeseen.
 
 <BR>
-<BR>
 
 Tehty ennen onnistuneesti.
 
@@ -83,7 +74,6 @@ Tehty ennen onnistuneesti.
 # b) Irrota Kali-virtuaalikone verkosta. Todista testein, että kone ei saa yhteyttä Internetiin
 
 <BR>
-<BR>
 
 ![image](https://github.com/user-attachments/assets/2cf8e5d2-eed5-4288-bb44-f463ea623576)
 
@@ -94,7 +84,6 @@ Tehty ennen onnistuneesti.
 
 # c) Porttiskannaa 1000 tavallisinta tcp-porttia omasta koneestasi (nmap -T4 -A localhost).
 
-<BR>
 <BR>
 
 ![image](https://github.com/user-attachments/assets/c13d8e55-d84e-4e6f-aaf1-4d55abadf1d3)
@@ -123,7 +112,6 @@ Kaikki virtuaalikoneen portit on tällä hetkellä kiinni joten mitään yllätt
 # d) Asenna kaksi vapaavalintaista demonia ja skannaa uudelleen. Analysoi ja selitä erot.
 
 <BR>
-<BR>
 
 Asensin koneelle apache2 ja openssh-serverin.
 
@@ -147,7 +135,6 @@ Kun skannaa nmapillä koneen uudelleen huomaa että portit 22 ja 80 on auenneet.
 # e) Asenna Metasploitable 2 virtuaalikoneeseen
 
 <BR>
-<BR>
 
 ![image](https://github.com/user-attachments/assets/aa6f34cb-f85d-44d7-b8dc-22ffc3104514)
 
@@ -162,37 +149,27 @@ Hieman huono kuva mutta ajaa asiansa. Asensin metaexploitablen virtualboxiin. Uu
 
 # f) Tee koneiden välille virtuaaliverkko.
 
+<BR>
 
+Tähän kohtaan tehtävät jäi kesken. Virtualboxin host adapteri ei lähtenyt pelaamaan. En saanut ratkaistua itse.
 
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
 
+# Lisälähteet:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Lähteet:
+<BR>
 
 Nmap man https://linux.die.net/man/1/nmap
+https://tuomasvalkamo.com/PenTestCourse/week-2/
+
+
 
 
 
