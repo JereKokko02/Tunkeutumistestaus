@@ -34,21 +34,10 @@
 
 ## PortSwigget Academy: 
 
-<br>
-
-https://portswigger.net/web-security/access-control/idor
-
-<br>
-
-https://portswigger.net/web-security/file-path-traversal
-
-<br>
-
-https://portswigger.net/web-security/ssrf
-
-<br>
-
-https://portswigger.net/web-security/cross-site-scripting
+  - https://portswigger.net/web-security/access-control/idor
+  - https://portswigger.net/web-security/file-path-traversal
+  - https://portswigger.net/web-security/ssrf
+  - https://portswigger.net/web-security/cross-site-scripting
 
 <br>
 
