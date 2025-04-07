@@ -15,7 +15,7 @@
 
 <br>
 
-- OWASP 2021 listan top 10 listan numero 1. Broken access control
+### OWASP 2021 listan top 10 listan numero 1. Broken access control
 - Broken access controllissa käyttäjillä on enemmän oikeuksia järjestelmissä kuin mitä heillä pitäisi olla.
 - Johtuu yleensä inhimillisestä virheestä.
 - Pomppasi sijalta 5. sijalle 1.
@@ -23,7 +23,7 @@
 
 <br>
 
-- OWASP 2021 listan numero 10. Server-Side Request Forgery (SSRF)
+### OWASP 2021 listan numero 10. Server-Side Request Forgery (SSRF)
 - Eli väärien pyyntöjen lähetys palvelimille.
 - Tämän mahdollistaa se, että palvelinta ei ole konfiguroitu varmentamaan onko käyttäjän lähettämä pyyntö aito vai väärennös.
 - Pystyy ehkäisemään deny-by-default periaatteella, HTTP jälleenlähetyksen pois päälle laittamisella sekä käyttäjän lähettämän tiedon validoimisella.
