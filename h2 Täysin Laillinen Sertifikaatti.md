@@ -56,3 +56,54 @@
 
 <br>
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# PortSwigger Labs.
+
+## c) Reflected XSS into HTML context with nothing encoded
+
+![image](https://github.com/user-attachments/assets/2458adcb-0c6b-469f-ba74-5cf9232f37d8)
+
+
+<br>
+
+Selitys: <script>alert(1)</script> komento toimii siksi, sillä se on javascriptiä. Tässä tapauksessa verkkosivu lukee käyttäjän antaman syötteen ja alkaa suorittamaan sitä. Alert(1) on javascriptissä popup alertin kutsukomento. Tältä pystyttäisiin suojautumaan mikäli verkkosivu lukisi käyttäjän syötteen pelkkänä tekstinä.
+
+<br>
+<br>
+
+## d) Tämä on sama tehtävä uudelleen...? 
+
+<br>
+<br>
+
+## e)  File path traversal, simple case.
+
+<br>
+
+
