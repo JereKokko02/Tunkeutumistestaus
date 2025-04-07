@@ -46,3 +46,13 @@
 - Server-Side Request Forgery (SSRF) on hyökkäystapa jossa hyökkääjä lähettää vääriäpyyntöjä verkkopalvelimille. Hyökkääjä pyrkii saamaan palvelimen palauttamaan vahingossa hänelle kuulumattomia tietoja.
 - Cross-site scripting, eli xss on hyökkäystapa jossa hyökkääjä pyrkii lähettämään haitallista javascriptiä verkkosivulle. Tällä hän pyrkii saamaan verkkosivulta jotakin tieto itselleen tai vaikkapa muokkaamaan verkkosivun ulkonäköä.
 - Portswiggerissä on todella paljon näihin hyökkäystekniikoihin liittyvää dokumentointia sekä esimerkkejä ja labroja.
+
+<br>
+<br>
+<br>
+<br>
+
+# a) Totally Legit Sertificate. Asenna OWASP ZAP, generoi CA-sertifikaatti ja asenna se selaimeesi.
+
+<br>
+<br>
