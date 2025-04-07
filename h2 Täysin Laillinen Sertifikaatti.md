@@ -32,7 +32,7 @@
 <br>
 <br>
 
-## PortSwigget Academy: https://portswigger.net/web-security/access-control/idor, https://portswigger.net/web-security/file-path-traversal, https://portswigger.net/web-security/ssrf, https://portswigger.net/web-security/cross-site-scripting
+## PortSwigget Academy: https://portswigger.net/web-security/access-control/idor <br>  https://portswigger.net/web-security/file-path-traversal, https://portswigger.net/web-security/ssrf, https://portswigger.net/web-security/cross-site-scripting
 
 <br>
 
