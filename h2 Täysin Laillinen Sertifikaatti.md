@@ -189,6 +189,6 @@ Selitys: <script>alert(1)</script> komento toimii siksi, sillä se on javascript
 <br>
 
 # Lähteet:
-1. https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
+1. FoxyProxy: https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
 2. Portswigger Lab: Reflected XSS into HTML context with nothing encoded. https://portswigger.net/web-security/cross-site-scripting/reflected/lab-html-context-nothing-encoded
 
