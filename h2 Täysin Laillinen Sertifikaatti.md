@@ -118,6 +118,16 @@ Avasin zaproxyn ja varmensin että sertifikaatti lähti toimimaan:
 <br>
 <br>
 
+Foxyproxy:
+![image](https://github.com/user-attachments/assets/2a144836-a15d-46ce-9c76-d2fcee9d2063)
+
+
+Loin uuden proxyn:
+![image](https://github.com/user-attachments/assets/07f70715-63c9-4885-8b22-ef6debb8ce3d)
+
+
+
+
 
 
 
