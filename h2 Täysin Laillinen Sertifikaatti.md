@@ -58,6 +58,27 @@
 <br>
 
 
+Asensin zaproxyn kali viertuaalikoneelle komennolla "'sudo apt-get install zaproxy". Asennuksen jälkeen avasin sen komennolla "zaproxy".
+
+Asennus onnistui: ![image](https://github.com/user-attachments/assets/d96867d0-0668-4cf2-879c-de3a1fec197a)
+
+CA-sertifikaatti: ![image](https://github.com/user-attachments/assets/f2d3cf62-c230-4995-95e3-d6f187afc957)
+
+Save ![image](https://github.com/user-attachments/assets/0f36125f-0031-4bff-bc35-44603fba6b13)
+
+
+
+
+
+Firefox cert ![image](https://github.com/user-attachments/assets/48a8d3c0-0e6c-4b4f-9002-7947adb2b12d)
+
+Tallennus: ![image](https://github.com/user-attachments/assets/eae9a96c-43e3-4b3b-94b3-33e0891ad926)
+
+Lähti toimimaan ![image](https://github.com/user-attachments/assets/d641d56a-9dfa-457b-8725-a43badf75895)
+
+
+
+
 
 
 
