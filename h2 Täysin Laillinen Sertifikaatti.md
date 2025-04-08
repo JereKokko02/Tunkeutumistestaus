@@ -1,8 +1,13 @@
+# Tehtävänannon löytää osoitteesta: https://terokarvinen.com/tunkeutumistestaus/#h2-taysin-laillinen-sertifikaatti
 
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # x) Lue/katso ja tiivistä.
 
@@ -27,7 +32,6 @@
 - Eli väärien pyyntöjen lähetys palvelimille.
 - Tämän mahdollistaa se, että palvelinta ei ole konfiguroitu varmentamaan onko käyttäjän lähettämä pyyntö aito vai väärennös.
 - Pystyy ehkäisemään deny-by-default periaatteella, HTTP jälleenlähetyksen pois päälle laittamisella sekä käyttäjän lähettämän tiedon validoimisella.
-
 
 <br>
 <br>
@@ -118,50 +122,34 @@ Avasin zaproxyn ja varmensin että sertifikaatti lähti toimimaan:
 <br>
 <br>
 
-Foxyproxy:
+Latasin foxyproxyn:
+
+<br>
+
 ![image](https://github.com/user-attachments/assets/2a144836-a15d-46ce-9c76-d2fcee9d2063)
 
+<br>
 
 Loin uuden proxyn:
+
+<br>
+
 ![image](https://github.com/user-attachments/assets/07f70715-63c9-4885-8b22-ef6debb8ce3d)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 # PortSwigger Labs.
 
+<br>
+
 ## c) Reflected XSS into HTML context with nothing encoded
 
-![image](https://github.com/user-attachments/assets/2458adcb-0c6b-469f-ba74-5cf9232f37d8)
+<br>
 
+![image](https://github.com/user-attachments/assets/2458adcb-0c6b-469f-ba74-5cf9232f37d8)
 
 <br>
 
@@ -170,13 +158,19 @@ Selitys: <script>alert(1)</script> komento toimii siksi, sillä se on javascript
 <br>
 <br>
 
-## d) Tämä on sama tehtävä uudelleen...? 
+## d) Tämä on sama tehtävä uudelleen ainakin tehtävänannossa.
 
 <br>
 <br>
 
-## e)  File path traversal, simple case.
+## e)  Tähän saakka pääsin aikarajoitteiden vuoksi.
 
 <br>
+<br>
+<br>
+<br>
 
+# Lähteet:
+1. https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
+2. 
 
