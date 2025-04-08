@@ -86,14 +86,37 @@ Save ![image](https://github.com/user-attachments/assets/0f36125f-0031-4bff-bc35
 
 <br>
 
+Sitten avasin firefoxyn ja menin sertifikaatit asetuksiin:
 
+<br>
 
+![image](https://github.com/user-attachments/assets/48a8d3c0-0e6c-4b4f-9002-7947adb2b12d)
 
-Firefox cert ![image](https://github.com/user-attachments/assets/48a8d3c0-0e6c-4b4f-9002-7947adb2b12d)
+<br>
+
+Tallensin sertifikaatin ja annoin sille oikeudet tarkastella vain verkkosivuja:
+
+<br>
 
 Tallennus: ![image](https://github.com/user-attachments/assets/eae9a96c-43e3-4b3b-94b3-33e0891ad926)
 
+<br>
+
+Avasin zaproxyn ja varmensin että sertifikaatti lähti toimimaan:
+
+<br>
+
 Lähti toimimaan ![image](https://github.com/user-attachments/assets/d641d56a-9dfa-457b-8725-a43badf75895)
+
+<br>
+<br>
+<br>
+<br>
+
+# b) Kettumaista. Asenna "FoxyProxy Standard" Firefox Addon, ja lisää ZAP proxyksi siihen.
+
+<br>
+<br>
 
 
 
