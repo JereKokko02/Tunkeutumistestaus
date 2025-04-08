@@ -94,11 +94,11 @@ Sitten avasin firefoxyn ja menin sertifikaatit asetuksiin:
 
 <br>
 
-Tallensin sertifikaatin ja annoin sille oikeudet tarkastella vain verkkosivuja:
+Tallensin sertifikaatin ja annoin sille oikeudet tarkastella vain verkkosivuja (Kuvittele mielessäsi että ylin täppä on ruksattu):
 
 <br>
 
-Tallennus: ![image](https://github.com/user-attachments/assets/eae9a96c-43e3-4b3b-94b3-33e0891ad926)
+![image](https://github.com/user-attachments/assets/eae9a96c-43e3-4b3b-94b3-33e0891ad926)
 
 <br>
 
@@ -106,7 +106,7 @@ Avasin zaproxyn ja varmensin että sertifikaatti lähti toimimaan:
 
 <br>
 
-Lähti toimimaan ![image](https://github.com/user-attachments/assets/d641d56a-9dfa-457b-8725-a43badf75895)
+![image](https://github.com/user-attachments/assets/d641d56a-9dfa-457b-8725-a43badf75895)
 
 <br>
 <br>
