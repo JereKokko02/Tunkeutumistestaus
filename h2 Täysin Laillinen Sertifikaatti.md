@@ -11,6 +11,14 @@ Tehtävät on tehty käyttäen Asus Vivobook 15 läppäriä. Muita työkaluja on
 - Metasploitable2 virtuaalikone
 
 <br>
+
+# HUOM! Mikäli yrität replikoida tehtävädokumentissa esiintyviä tehtäviä ja niiden ratkaisuja, perehdy ensin tunkeutumistestaukseen liittyviin lakiasetuksiin ja säännöksiin.
+
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
