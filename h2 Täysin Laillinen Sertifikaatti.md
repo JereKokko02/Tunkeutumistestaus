@@ -74,7 +74,7 @@ Sitten loin uuden sertifikaatin zaproxyssä:
 
 <br>
 
-CA-sertifikaatti: ![image](https://github.com/user-attachments/assets/f2d3cf62-c230-4995-95e3-d6f187afc957)
+![image](https://github.com/user-attachments/assets/f2d3cf62-c230-4995-95e3-d6f187afc957)
 
 <br>
 
@@ -82,7 +82,7 @@ Ja tallensin sen:
 
 <br>
 
-Save ![image](https://github.com/user-attachments/assets/0f36125f-0031-4bff-bc35-44603fba6b13)
+![image](https://github.com/user-attachments/assets/0f36125f-0031-4bff-bc35-44603fba6b13)
 
 <br>
 
