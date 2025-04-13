@@ -35,6 +35,9 @@ Tehtävät on tehty käyttäen Asus Vivobook 15 läppäriä. Muita työkaluja on
 - Tero Karvisen lyhyt artikkelu Ffuf -työkalusta sekä sen testaamiseen tarkoitettu dirtfuzt0 Maali.
 - Artikkelissa ffuffin käyttöohje
 - Artikkelissa käydään läpi myös ffuffin palautusarvoja jne.
+- Kyseessä on harjoitus jota on käytetty mm. Webbiin tunkeutumisen kurssilla.
+
+<br>
 
 1. Hoikkala 2023: ffuf README.md [Linkki](https://github.com/ffuf/ffuf/blob/master/README.md)
 -
