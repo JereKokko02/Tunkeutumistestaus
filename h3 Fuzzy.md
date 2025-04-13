@@ -26,3 +26,6 @@ Tehtävät on tehty käyttäen Asus Vivobook 15 läppäriä. Muita työkaluja on
 <br>
 <br>
 <br>
+# x) Lue/katso/kuuntele ja tiivistä.
+
+1. Karvinen 2023: Find Hidden Web Directories - Fuzz URLs with ffuf [Linkki](https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/)
