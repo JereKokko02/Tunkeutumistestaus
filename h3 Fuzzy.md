@@ -50,7 +50,7 @@ Tehtävät on tehty käyttäen Asus Vivobook 15 läppäriä. Muita työkaluja on
 <br>
 <br>
 
-# a)
+# a) Fuzzzz. Ratkaise dirfuz-1 artikkelista Karvinen 2023
 
 <br>
 <br>
@@ -87,7 +87,7 @@ Laitoin sen verkkosivun urliin, ja pam:
 <br>
 <br>
 
-# b)
+# b) Fuff me. Asenna FuffMe-harjoitusmaali. Karvinen 2023
 
 Asensin tehtävänannossa olleiden ohjeiden mukaan: https://terokarvinen.com/2023/fuffme-web-fuzzing-target-debian/
 
