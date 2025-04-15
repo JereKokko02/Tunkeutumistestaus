@@ -211,8 +211,17 @@ Asensin tehtävänannossa olleiden ohjeiden mukaan: https://terokarvinen.com/202
 
 
 # Mitä astronautti sanoi kun löysi luurangon kuusta?
+
+<br>
+
 ## "Mitä kuuluu?"
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ![image](https://github.com/user-attachments/assets/6599ed6b-7b85-4626-8431-44c61bfda68e)
