@@ -179,6 +179,10 @@ Asensin tehtävänannossa olleiden ohjeiden mukaan: https://terokarvinen.com/202
 <br>
 <br>
 
+# Lähteet
+
+1. https://github.com/ffuf/ffuf
+2. https://hackviser.com/tactics/tools/ffuf
 
 
 
