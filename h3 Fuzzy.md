@@ -46,7 +46,7 @@ Tehtävät on tehty käyttäen Asus Vivobook 15 läppäriä. Muita työkaluja on
 -
 
 
-# a
+# a)
 
 ![image](https://github.com/user-attachments/assets/41538f43-9457-49a3-b164-c93191ea29e0)
 ![image](https://github.com/user-attachments/assets/1546f7c2-84ea-4efa-9dce-c6cf583201c7)
@@ -56,6 +56,15 @@ Rajoitin -154 ja löyty:
 
 ![image](https://github.com/user-attachments/assets/a3a6d1c7-881e-453e-865f-5727aa7e5633)
 
+<br>
+<br>
+<br>
+<br>
+
+# b)
+
+Asensin ohjeiden mukaisesti onnistuneesti
+![image](https://github.com/user-attachments/assets/c23e8d50-64cf-43ca-a1c5-be4493006c71)
 
 
 
