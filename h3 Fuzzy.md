@@ -108,7 +108,7 @@ Asensin tehtävänannossa olleiden ohjeiden mukaan: https://terokarvinen.com/202
 ![image](https://github.com/user-attachments/assets/1f916325-ffa0-46b4-a4f2-bb74d5bc0d73)
 
 
-d) Content Discovery With Recursion
+# d) Content Discovery With Recursion
 
 <br>
 
@@ -120,7 +120,7 @@ d) Content Discovery With Recursion
 
 <br>
 
-e) Content Discovery With File Extensions
+# e) Content Discovery With File Extensions
 
 <br>
 
@@ -132,7 +132,7 @@ e) Content Discovery With File Extensions
 
 <br>
 
-f) No 404 Status
+# f) No 404 Status
 
 <br>
 
@@ -144,7 +144,7 @@ f) No 404 Status
 
 <br>
 
-g) Param Mining
+# g) Param Mining
 
 <br>
 
@@ -152,7 +152,7 @@ g) Param Mining
 
 <br>
 
-h)  Rate Limited
+# h)  Rate Limited
 
 <br>
 
@@ -164,7 +164,7 @@ h)  Rate Limited
 
 <br>
 
-i) Subdomains - Virtual Host Enumeration
+# i) Subdomains - Virtual Host Enumeration
 
 <br>
 
