@@ -67,7 +67,7 @@ Asensin maalin käyttäen tehtävänannon ohjeita: https://terokarvinen.com/2023
 
 <br>
 
-Rajoitin -154 ja löyty:
+Ratkaisin sen ffuffilla. Rajoitin -154 ja löyty:
 ![image](https://github.com/user-attachments/assets/de1ba71b-4b93-495e-a8e3-42a3dc83be9d)
 
 ![image](https://github.com/user-attachments/assets/a3a6d1c7-881e-453e-865f-5727aa7e5633)
