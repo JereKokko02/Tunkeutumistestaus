@@ -36,8 +36,7 @@ Tehtävät on tehty käyttäen Asus Vivobook 15 läppäriä. Muita työkaluja on
 - Artikkelissa ffuffin käyttöohje
 - Artikkelissa käydään läpi myös ffuffin palautusarvoja jne.
 - Kyseessä on harjoitus jota on käytetty mm. Webbiin tunkeutumisen kurssilla.
-- Mitä astronautti sanoi kun löysi luurangon kuusta?
-    - "Mitä kuuluu?"
+
 
 <br>
 
@@ -194,6 +193,11 @@ Asensin tehtävänannossa olleiden ohjeiden mukaan: https://terokarvinen.com/202
 
 
 
+
+
+
+# Mitä astronautti sanoi kun löysi luurangon kuusta?
+## "Mitä kuuluu?"
 
 
 
