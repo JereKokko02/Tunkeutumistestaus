@@ -67,5 +67,35 @@ Asensin ohjeiden mukaisesti onnistuneesti
 ![image](https://github.com/user-attachments/assets/c23e8d50-64cf-43ca-a1c5-be4493006c71)
 
 
+# c) 
+
+![image](https://github.com/user-attachments/assets/d043edb2-7530-42c1-aef3-aeffdebdb923)
+![image](https://github.com/user-attachments/assets/1f916325-ffa0-46b4-a4f2-bb74d5bc0d73)
+
+
+d)
+
+![image](https://github.com/user-attachments/assets/a8793724-518c-4392-806f-90f3394b32bd)
+![image](https://github.com/user-attachments/assets/c427e5cf-814b-4af4-a9c9-b03ac520c28d)
+
+
+e)
+
+![image](https://github.com/user-attachments/assets/1fcee516-3a3e-4a12-a662-0a0555c1a97f)
+![image](https://github.com/user-attachments/assets/6d023bc2-8b58-4622-8221-bdda3497974b)
+
+f)
+
+![image](https://github.com/user-attachments/assets/fecad75d-1264-44d6-9d4d-bcbea0c42242)
+![image](https://github.com/user-attachments/assets/cf0c7dce-fa9d-4b7b-b582-957e1f5b665a)
+
+
+
+
+
+
+
+
+
 
 
