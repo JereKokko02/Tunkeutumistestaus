@@ -36,14 +36,17 @@ Tehtävät on tehty käyttäen Asus Vivobook 15 läppäriä. Muita työkaluja on
 - Artikkelissa ffuffin käyttöohje
 - Artikkelissa käydään läpi myös ffuffin palautusarvoja jne.
 - Kyseessä on harjoitus jota on käytetty mm. Webbiin tunkeutumisen kurssilla.
+- Mitä astronautti sanoi kun löysi luurangon kuusta?
+    - "Mitä kuuluu?"
 
 <br>
 
 ## 1. Hoikkala 2023: ffuf README.md [Linkki](https://github.com/ffuf/ffuf/blob/master/README.md)
--
--
--
--
+- Ffuf työkalun readme
+- Sisältää kaiken aina asennuksesta käyttöön ja ongelmanratkaisuun.
+- Omistaja herra Hoikkala itse
+- Sisältää ffuffin maskotista muutaman kuvan
+- Huomasitko että readmen lopussa linkki lisenssiin?
 
 <br>
 <br>
