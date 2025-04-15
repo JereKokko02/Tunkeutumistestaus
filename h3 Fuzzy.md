@@ -26,6 +26,9 @@ Tehtävät on tehty käyttäen Asus Vivobook 15 läppäriä. Muita työkaluja on
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 # x) Lue/katso/kuuntele ja tiivistä.
 
