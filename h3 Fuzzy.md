@@ -34,9 +34,9 @@ Tehtävät on tehty käyttäen Asus Vivobook 15 läppäriä. Muita työkaluja on
 ## 1. Karvinen 2023: Find Hidden Web Directories - Fuzz URLs with ffuf [Linkki](https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/)
 - Tero Karvisen lyhyt artikkelu Ffuf -työkalusta sekä sen testaamiseen tarkoitettu dirtfuzt0 Maali.
 - Artikkelissa ffuffin käyttöohje
-- Artikkelissa käydään läpi myös ffuffin palautusarvoja jne.
+- Artikkelissa käydään läpi myös ffuffin palautusarvoja ja mitä ne tarkoittaa.
 - Kyseessä on harjoitus jota on käytetty mm. Webbiin tunkeutumisen kurssilla.
-
+- Artikkeli on siis tehty opetustarkoitukseen havannollistamaan ffuffin toimintaa sille luodussa ympäristössä.
 
 <br>
 
@@ -186,7 +186,18 @@ Asensin tehtävänannossa olleiden ohjeiden mukaan: https://terokarvinen.com/202
 1. https://github.com/ffuf/ffuf
 2. https://hackviser.com/tactics/tools/ffuf
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
