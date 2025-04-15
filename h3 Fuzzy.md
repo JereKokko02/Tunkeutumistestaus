@@ -45,11 +45,27 @@ Tehtävät on tehty käyttäen Asus Vivobook 15 läppäriä. Muita työkaluja on
 -
 -
 
+<br>
+<br>
+<br>
+<br>
 
 # a)
 
+<br>
+<br>
+
+Asensin maalin käyttäen tehtävänannon ohjeita: https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/
+
+<br>
+
 ![image](https://github.com/user-attachments/assets/41538f43-9457-49a3-b164-c93191ea29e0)
+
+<br>
+
 ![image](https://github.com/user-attachments/assets/1546f7c2-84ea-4efa-9dce-c6cf583201c7)
+
+<br>
 
 Rajoitin -154 ja löyty:
 ![image](https://github.com/user-attachments/assets/de1ba71b-4b93-495e-a8e3-42a3dc83be9d)
