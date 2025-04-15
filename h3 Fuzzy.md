@@ -213,22 +213,22 @@ Asensin tehtävänannossa olleiden ohjeiden mukaan: https://terokarvinen.com/202
 # Mitä astronautti sanoi kun löysi luurangon kuusta?
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## "Mitä kuuluu?"
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-![image](https://github.com/user-attachments/assets/6599ed6b-7b85-4626-8431-44c61bfda68e)
-
-<br>
-
-Kuvan lähde: https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fphotos%2F1928263-skeletons&psig=AOvVaw0Bjj7ETtXa0iHm_8s6iVE2&ust=1744822893053000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjJi_PB2owDFQAAAAAdAAAAABAu
 
 
 
