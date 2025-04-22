@@ -13,11 +13,11 @@
 
 
 
-# a) Asenna Hashcat ja testaa sen toiminta murtamalla esimerkkisalasana.
+# a) Asenna Hashcat ja testaa sen toiminta murtamalla esimerkkisalasana. 
 
 <br>
 
-Latasin rockyou.txt ja valitsin satunnaisen sanan (grep loista ja valitsin sopivan):
+Latasin rockyou.txt tiedoston Tero Karvisen Ohjeita[https://terokarvinen.com/2022/cracking-passwords-with-hashcat/] seuraamalla ja valitsin satunnaisen sanan:
 
 <br>
 
@@ -25,7 +25,7 @@ Latasin rockyou.txt ja valitsin satunnaisen sanan (grep loista ja valitsin sopiv
 
 <br>
 
-Salasanaksi tuli "kahloista"
+Tässä tehtävässä käytettäväksi Salasanaksi tuli "kahloista"
 
 <br>
 
