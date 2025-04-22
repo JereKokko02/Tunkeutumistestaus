@@ -146,9 +146,9 @@ Enää jäljellä oli testata saako hashcat murrettua salasanan hashin. Tämän 
 <br>
 <br>
 
-c) Asenna John the Ripper ja testaa sen toiminta murtamalla jonkin esimerkkitiedoston salasana.
+# c) Asenna John the Ripper ja testaa sen toiminta murtamalla jonkin esimerkkitiedoston salasana.
 
-Minulla alkoi John valittamaan jotakin kerneliin liittyvää ja sen käyttäminen johti virtuaalikoneen kaatumiseen. En saanut ratkaistua syytä mutta ymmärrän kuitenkin ripperin toiminnan. Hyvä video on mm. [tämä](https://youtu.be/IM8x_ddNsSc)
+Minulla alkoi John valittamaan jotakin kerneliin liittyvää ja sen käyttäminen johti virtuaalikoneen kaatumiseen. En saanut ratkaistua syytä mutta ymmärrän kuitenkin ripperin toiminnan. Hyvä video on mm. [tämä](https://youtu.be/IM8x_ddNsSc) Yritän vielä selvittää mistä tämä johtuisi.
 
 <br>
 <br>
