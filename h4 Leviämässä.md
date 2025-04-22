@@ -64,7 +64,7 @@ Hashcat tunnisti salasanan mahdolliset hashit ja yksi niistä oli MD5.
 
 <br>
 
-Ajoin komennon "hashcat -m 0 md5hash.txt rockyou.txt ja hashcat mursi hashin:
+Enää jäljellä oli testata saako hashcat murrettua salasanan hashin. Tämän testasin ajamalla komennon "hashcat -m 0 md5hash.txt rockyou.txt ja hashcat mursi hashin paljastaen sen sisällön:
 
 ![image](https://github.com/user-attachments/assets/c9724770-345f-4bf8-9f87-d4daa22d70f3)
 
