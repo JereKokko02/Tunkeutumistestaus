@@ -17,7 +17,7 @@
 
 <br>
 
-Latasin rockyou.txt tiedoston Tero Karvisen Ohjeita[https://terokarvinen.com/2022/cracking-passwords-with-hashcat/] seuraamalla ja valitsin satunnaisen sanan:
+Latasin rockyou.txt tiedoston Tero Karvisen [Ohjeita](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/) seuraamalla ja valitsin satunnaisen sanan:
 
 <br>
 
