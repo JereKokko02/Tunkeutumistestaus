@@ -1,17 +1,56 @@
+# x) Lue/katso ja tiivistä. (Tässä x-alakohdassa ei tarvitse tehdä testejä tietokoneella, vain lukeminen tai kuunteleminen ja tiivistelmä riittää. Tiivistämiseen riittää muutama ranskalainen viiva kustakin artikkelista. Kannattaa lisätä myös jokin oma ajatus, idea, huomio tai kysymys.)
+
+## Karvinen 2022: https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
+
+- Hashcat harjoitus
+- Hashcatin käyttöohjeet
+- Hashien perusteet (md5 jne)
+- Rockyou.txt joka on itestä hyödyllinen
+- -- show komento
+
+## Karvinen 2023: https://terokarvinen.com/2023/crack-file-password-with-john/
+
+- John the ripper ohjelman käyttö sekä asennus
+- Kuinka sitä käytetään
+- Mihin sitä käytetään
+- Esimerkkiharjoitus
+- Outputin analysointia paljon
+
+##  Santos et al 2017: Security Penetration Testing: https://www.oreilly.com/videos/security-penetration-testing/9780134833989/9780134833989-sptt_00_06_00_00/
+
+- Videoissa katsotaan salasanojen ja niihin liittyvien tietojen murtamista.
+- Hyökkäyksiä, mitä haetaan ja miten?
+- John the ripper ja hashcat tekee paluun
+- Lopussa suojautumisehdotuksia
+- Summa summarum video --> Nopeasti paljon tietoa.
+
+## Kennedy et al 2025: Metasploit: File-Format Exploits (sivun loppuun, eli Wrapping Up loppuun): https://www.oreilly.com/library/view/metasploit-2nd-edition/9798341620032/xhtml/chapter9.xhtml#:-:text=File-Format%20Exploits
+
+- Browser exploit ja file-format exploit
+- Mitä enemmän tieto murrestavasta kohteesta, sitä helpompaa
+- Onnistuminen siis riippuu murtajasta ja kohteen tasosta.
 
 
+## Singh 2025: The Ultimate Kali Linux Book: Understanding Active Directory (Vain tuo kappale, ei enää "Enumerating Active Directory") https://learning.oreilly.com/library/view/the-ultimate-kali/9781835085806/Text/Chapter_12.xhtml#_idParaDest-272
 
+- Active directoryn toiminta
+- Toimialueen rakenne
+- Toimialueiden suhteet
+- Keskitettyä hallintaa
+- Winows palvelimet -kurssin sisältöä.
 
+## Vapaaehtoinen: Kennedy et al 2025: Metasploit: https://learning.oreilly.com/library/view/metasploit-2nd-edition/9798341620032/xhtml/chapter6.xhtml#toc-link_88
 
+- Metasploitable 3 meterprer.
+- Meterprer mahdollistaa hallinnan onnistuneen hyökkäyksen jälkeen.
+- Meterprerillä hyökkääjä pääsee siis tekemään tihutöitä
+- Listataan mm kiwi, kuvankaappausten ottaminen, käyttäjien syötteen tallennus jne.
+- Meterprer on siis payload työkalu.
 
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 # a) Asenna Hashcat ja testaa sen toiminta murtamalla esimerkkisalasana. 
 
