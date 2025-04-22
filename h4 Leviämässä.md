@@ -184,46 +184,22 @@ Fcrackzip on melko hidas työkalu. Mikäli sillä yritetään ratkaista 6-kirjai
 
 # f) Tiiviste. Tee itse tai etsi verkosta salasanan tiiviste, jonka saat auki. Murra sen salaus. (Jokin muu formaatti kuin aiemmissa alakohdissa kokeilemasi. Voit esim. tehdä käyttäjän Linuxiin ja murtaa sen salasanan.)
 
-Koska johnny poika ei pelaa niin täytyy improvisoida. Kysying chatgpt:ä generoimaan minulle satunnaisen salasanan hashin paljastamatta mitä häshäystä se käyttää. Yritän sitten ratkaista sen hashcatin avulla.
+<br>
 
-Kysyin hashiä:
+Tämän tehtävän tekemisessä on nyt ongelmaa kun Johnny boy ei vieläkään toimi. Alustavasti tehtävät jää nyt tähän pisteeseen ja palaan niihin jos/kun saan ratkaistua Johnnyn ongelman.
 
-![image](https://github.com/user-attachments/assets/746c8c21-62a7-4055-8f2b-a756ffddccc6)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-Loin murrettavan tekstitiedoston johon hash liitetään:
-
-![image](https://github.com/user-attachments/assets/a8455e29-d684-458b-a957-fed82b3189a6)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Lähteet:
-https://www.youtube.com/watch?v=W6SIU-ggTDI&t=60s
+Lisälähteet:
+1. https://www.youtube.com/watch?v=W6SIU-ggTDI&t=60s | Katsottu 20.4.2025
+2. https://www.youtube.com/watch?v=z4_oqTZJqCo | Katsottu 21.4.2025
+3. https://www.youtube.com/watch?v=RyQL9AdxHqY | Katsottu 21.4.2025
+4. https://youtu.be/b4b8ktEV4Bg | Katsottu 22.4.2025
+5. https://youtu.be/DMtFhACPnTY | Katsottu 22.4.2025
+6. https://hashcat.net/hashcat/ | Silmäilty 22.4.2025
