@@ -78,6 +78,8 @@ Enää jäljellä oli testata saako hashcat murrettua salasanan hashin. Tämän 
 c) Asenna John the Ripper ja testaa sen toiminta murtamalla jonkin esimerkkitiedoston salasana.
 
 
+# e) Tiedosto. Tee itse tai etsi verkosta jokin salakirjoitettu tiedosto, jonka saat auki.
+
 
 
 
