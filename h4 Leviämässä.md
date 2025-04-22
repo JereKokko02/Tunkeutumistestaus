@@ -1,1 +1,17 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# a) Asenna Hashcat ja testaa sen toiminta murtamalla esimerkkisalasana.
+
