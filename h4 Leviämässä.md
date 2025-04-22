@@ -53,7 +53,7 @@ Varmistin vielä että hashi on toimiva käyttämällä hashcatin "hashid" komen
 
 <br>
 
-Hashcat tunnisti salasanan kahloista hashin MD5:deksi.
+Hashcat tunnisti salasanan mahdolliset hashit ja yksi niistä oli MD5.
 
 <br>
 
