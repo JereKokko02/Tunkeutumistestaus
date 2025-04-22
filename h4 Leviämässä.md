@@ -184,6 +184,23 @@ Fcrackzip on melko hidas työkalu. Mikäli sillä yritetään ratkaista 6-kirjai
 
 # f) Tiiviste. Tee itse tai etsi verkosta salasanan tiiviste, jonka saat auki. Murra sen salaus. (Jokin muu formaatti kuin aiemmissa alakohdissa kokeilemasi. Voit esim. tehdä käyttäjän Linuxiin ja murtaa sen salasanan.)
 
+Koska johnny poika ei pelaa niin täytyy improvisoida. Kysying chatgpt:ä generoimaan minulle satunnaisen salasanan hashin paljastamatta mitä häshäystä se käyttää. Yritän sitten ratkaista sen hashcatin avulla.
+
+Kysyin hashiä:
+
+![image](https://github.com/user-attachments/assets/746c8c21-62a7-4055-8f2b-a756ffddccc6)
+
+Loin murrettavan tekstitiedoston johon hash liitetään:
+
+![image](https://github.com/user-attachments/assets/a8455e29-d684-458b-a957-fed82b3189a6)
+
+
+
+
+
+
+
+
 
 
 
