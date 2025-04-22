@@ -14,16 +14,21 @@ Tehtävät on tehty käyttäen Asus Vivobook 15 läppäriä. Muita työkaluja on
 
 # HUOM! Mikäli yrität replikoida tehtävädokumentissa esiintyviä tehtäviä ja niiden ratkaisuja, perehdy ensin tunkeutumistestaukseen liittyviin lakiasetuksiin ja säännöksiin.
 
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # x) Lue/katso ja tiivistä. (Tässä x-alakohdassa ei tarvitse tehdä testejä tietokoneella, vain lukeminen tai kuunteleminen ja tiivistelmä riittää. Tiivistämiseen riittää muutama ranskalainen viiva kustakin artikkelista. Kannattaa lisätä myös jokin oma ajatus, idea, huomio tai kysymys.)
 
