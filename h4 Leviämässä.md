@@ -29,6 +29,16 @@ Tämän jälkeen menin sivustolle https://www.browserling.com/tools/all-hashes j
 Valitsin md5 hashin jonka kopioin leikepöydälle. Tämän jälkeen loin uuden tekstitiedoston johon liitin sen:
 ![image](https://github.com/user-attachments/assets/2595ce67-7f09-4a34-83c4-baeb4fe0e7af)
 
+Tilanne tässä vaiheessa on siis seuraava:
+
+1. Olen luonut murrettavalle salasanalle md5 hashing ja liittänyt sen hashcatin kohdetiedostoon md5hash.txt
+2. Valittu salasana on osa rockyou.txt sanalistaa jota hashcat käyttää hyödykseen salasanan murtamisessa.
+
+Ajoin komennon "hashcat -m 0 md5hash.txt rockyou.txt ja hashcat mursi hashin:
+
+![image](https://github.com/user-attachments/assets/c9724770-345f-4bf8-9f87-d4daa22d70f3)
+
+
 
 
 
