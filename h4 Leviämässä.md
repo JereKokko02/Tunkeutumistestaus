@@ -23,7 +23,7 @@ Salasanaksi tuli "kahloista"
 
 br
 
-Tämän jälkeen menin sivustolle https://www.browserling.com/tools/all-hashes ja loin salasanan hashin:
+Tämän jälkeen menin sivustolle https://www.browserling.com/tools/all-hashes ja loin salasanan MD5 hashin:
 ![image](https://github.com/user-attachments/assets/2c72e968-7784-4cc8-882e-30c50bf4cfbf)
 
 Valitsin md5 hashin jonka kopioin leikepöydälle. Tämän jälkeen loin uuden tekstitiedoston johon liitin sen:
