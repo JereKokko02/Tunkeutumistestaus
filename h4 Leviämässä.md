@@ -174,6 +174,10 @@ Ajoin komennon "fcrackzip -vul 1-4 zippikansio.zip ja ohjelma löysi salasanan:
 ![image](https://github.com/user-attachments/assets/576e52b0-9adc-4424-85c2-d44e4ba964f1)
 
 <br>
+
+Fcrackzip on melko hidas työkalu. Mikäli sillä yritetään ratkaista 6-kirjaimista salasanaa joka on "aaaaaa" kestää siinä noin 20 min. Jos salasana on vaikka ApiLaS12-: , voin kokemuksesta sanoa että menee yli tunti. Mutta kyseinen ohjelma on ihan kiva ja simppeli brutefroce -työkalu.
+
+<br>
 <br>
 <br>
 <br>
