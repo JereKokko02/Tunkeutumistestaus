@@ -132,6 +132,7 @@ Hashcat tunnisti salasanan mahdolliset hashit ja yksi niistä oli MD5.
 
 1. Olen luonut murrettavalle salasanalle md5 hashin ja liittänyt sen uuteen tekstitiedostoon josta tulee hashcatin kohdetiedosto (md5hash.txt)
 2. Valittu salasana on osa rockyou.txt sanalistaa jota hashcat käyttää hyödykseen salasanan murtamisessa. Hashcat toimii tässä esimerkissä vähän kuten ffuf: Se testaa valitun wordlistin sisällön kohdetiedostoon.
+3. Tämä on hyvin simppeli harjoitus sillä eihän kukaan kirjoita salasanojen hasheja muuten tyhjään tekstitiedostoon varsinkaan käyttäen tunnettua menetelmää. Tässä vaan testataan hashcatin käyttöä.
 
 <br>
 
