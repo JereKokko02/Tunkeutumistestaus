@@ -45,6 +45,18 @@ Valitsin md5 hashin jonka kopioin leikepöydälle. Tämän jälkeen loin uuden t
 
 <br>
 
+Varmistin vielä että hashi on toimiva käyttämällä hashcatin "hashid" komentoa. 
+
+<br>
+
+![image](https://github.com/user-attachments/assets/7431fb8a-c1d8-45ad-9ee5-08dc62cece08)
+
+<br>
+
+Hashcat tunnisti salasanan kahloista hashin MD5:deksi.
+
+<br>
+
 ## Tilanne tässä vaiheessa on siis seuraava:
 
 1. Olen luonut murrettavalle salasanalle md5 hashin ja liittänyt sen uuteen tekstitiedostoon josta tulee hashcatin kohdetiedosto (md5hash.txt)
