@@ -77,8 +77,22 @@ Enää jäljellä oli testata saako hashcat murrettua salasanan hashin. Tämän 
 
 c) Asenna John the Ripper ja testaa sen toiminta murtamalla jonkin esimerkkitiedoston salasana.
 
+Minulla alkoi John valittamaan jotakin kerneliin liittyvää ja sen käyttäminen johti virtuaalikoneen kaatumiseen. En saanut ratkaistua syytä mutta ymmärrän kuitenkin ripperin toiminnan. 
+
 
 # e) Tiedosto. Tee itse tai etsi verkosta jokin salakirjoitettu tiedosto, jonka saat auki.
+
+Loin zippitiedoston jonka salasin salasanalla "aapo" tämän jälkeen latasin ohjelman nimeltä fcrackzip komennolla sudo apt-get install fcrackzip:
+
+![image](https://github.com/user-attachments/assets/6d6e3274-2e92-4aa3-a170-54d23d0866b0)
+
+
+Ajoin komennon "fcrackzip -vul 1-4 zippikansio.zip ja ohjelma löysi salasanan:
+
+![image](https://github.com/user-attachments/assets/576e52b0-9adc-4424-85c2-d44e4ba964f1)
+
+
+
 
 
 
