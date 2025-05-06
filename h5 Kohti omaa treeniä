@@ -1,0 +1,8 @@
+
+# a) HTB Dancing. Ratkaise HackTheBox.com: Starting Point: Tier 0: Dancing.
+
+## Task 1: What does the 3-letter acronym SMB stand for?
+  - SMB = Server Message Block.
+
+## Task 2: What port does SMB use to operate at?
+  - SMB toimii portissa 445.
