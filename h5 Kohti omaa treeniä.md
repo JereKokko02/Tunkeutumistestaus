@@ -78,7 +78,7 @@ HTB kone heräsi!
 
 ## Task 4: What is the 'flag' or 'switch' that we can use with the smbclient utility to 'list' the available shares on Dancing?
 
-- -L (man sivut) eli syntaksi olisi "smbclient -L <kohdeosoite> (10.
+- -L (man sivut) eli syntaksi olisi "smbclient -L <kohdeosoite> (10.129.41.129)
 
 <br>
 
@@ -94,4 +94,15 @@ Task 5: How many shares are there on Dancing?
 
 <br>
 
-## 
+## Task 7: What is the command we can use within the SMB shell to download the files we find?
+
+- Get
+
+<br>
+<br>
+<br>
+<br>
+
+# b) HTB Responder. Ratkaise HackTheBox.com: Starting Point: Tier 1: Responder.
+
+Task 1: When visiting the web service using the IP address, what is the domain that we are being redirected to?
