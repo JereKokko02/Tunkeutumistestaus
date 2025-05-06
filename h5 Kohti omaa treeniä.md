@@ -103,7 +103,7 @@ HTB kone heräsi!
 <br>
 <br>
 
-# b) HTB Responder. Ratkaise HackTheBox.com: Starting Point: Tier 1: Responder.
+# b) HTB Responder. Ratkaise HackTheBox.com: Starting Point: Tier 1: Responder. [Tehtävänanto](https://app.hackthebox.com/starting-point)
 
 Kone käynnistettiin samalla tavalla kuin aikaisemmin.
 
@@ -175,7 +175,18 @@ Kone käynnistettiin samalla tavalla kuin aikaisemmin.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+Lisälähteet:
+
+1. https://www.crowdstrike.com/en-us/cybersecurity-101/identity-protection/windows-ntlm/ | Luettu 6.5.2025
 
 
 
