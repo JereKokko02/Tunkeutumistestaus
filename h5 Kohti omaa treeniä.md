@@ -72,7 +72,7 @@ HTB kone heräsi!
 
 ## Task 3: What is the service name for port 445 that came up in our Nmap scan?
 
-- Tässä vaiheessa tuli tenkkapoo: kohdekoneeseen pystyy hyökkäämään vain mikäli hyökkääjän kone on yhdistetty internettiin. Jos kali linuxin verkkokortiksi laittaa nat, ei saa enää yhteyttä kohdekoneeseen. Tässä vaiheessa yritin etsiä tieto netistä miten tehtävän saisi tehtyä turvallisesti, mutta en löytänyt vastausta. Tämän tehtävän saisi helposti tehtyä ihan vaan nmappiä käyttäen mutta en osaa tehdä sitä turvallisesti. Koska haluan joskus vielä omistaa vuoden 1968 punaisen Dodge Chargerin, päätin että en ota turhaa riskiä. Tästä tehtävästä eteenpäin teen ne tehtävät mitkä pystyn turvallisesti suorittamaan. Näihin tehtäviinhän siis löytyy valmiit vastaukset ja tutoriaalit netistä että oikeiden vastausten kopioiminen olisi lastenleikkiä, mutta en käy sitä tekemään. Huijaaminen on heikoille ihmisille.
+- Tässä vaiheessa tuli tenkkapoo: kohdekoneeseen pystyy hyökkäämään vain mikäli hyökkääjän kone on yhdistetty internettiin. Jos kali linuxin verkkokortiksi laittaa nat, ei saa enää yhteyttä kohdekoneeseen. Tässä vaiheessa yritin etsiä tieto netistä miten tehtävän saisi tehtyä turvallisesti, mutta en löytänyt vastausta. Tämän tehtävän saisi helposti tehtyä ihan vaan nmappiä käyttäen mutta en osaa tehdä sitä turvallisesti. Koska haluan joskus vielä omistaa vuoden 1968 punaisen Dodge Chargerin, päätin että en ota turhaa riskiä. Tästä tehtävästä eteenpäin teen ne tehtävät mitkä pystyn turvallisesti suorittamaan. Näihin tehtäviinhän siis löytyy valmiit vastaukset ja tutoriaalit netistä että oikeiden vastausten kopioiminen olisi lastenleikkiä, mutta en käy sitä tekemään.
 
 <br>
 
