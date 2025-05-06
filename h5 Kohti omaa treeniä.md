@@ -39,7 +39,7 @@ keywords: {Surveys;Security;Protocols;Databases;Metadata;Blockchains;STEM;Privac
 <br>
 <br>
 
-# a) HTB Dancing. Ratkaise HackTheBox.com: Starting Point: Tier 0: Dancing.
+# a) HTB Dancing. Ratkaise HackTheBox.com: Starting Point: Tier 0: Dancing. [Tehtävänanto](https://app.hackthebox.com/starting-point)
 
 Aloitin tehtävän seuraamalla dancing tehtävän ohjeita. Tehtävässä käynnistettiin ensin openvpn yhteys koneeseen:
 
