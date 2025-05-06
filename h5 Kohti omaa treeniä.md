@@ -218,6 +218,9 @@ Kone käynnistettiin samalla tavalla kuin aikaisemmin.
 Lisälähteet:
 
 1. https://www.crowdstrike.com/en-us/cybersecurity-101/identity-protection/windows-ntlm/ | Luettu 6.5.2025
+2. https://forum.hackthebox.com/t/how-to-be-safe-on-htb/1195 | Luettu 6.5.2025
+3. https://linux.die.net/man/1/nmap | Luettu uudelleen 6.5.2025
+4. https://julkaisufoorumi.fi/fi | Selailtu läpi 6.5.2025
 
 
 
