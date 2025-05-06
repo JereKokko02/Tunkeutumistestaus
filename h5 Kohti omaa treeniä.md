@@ -78,7 +78,7 @@ HTB kone heräsi!
 
 ## Task 4: What is the 'flag' or 'switch' that we can use with the smbclient utility to 'list' the available shares on Dancing?
 
-- -L (man sivut) eli syntaksi olisi "smbclient -L <kohdeosoite> (10.129.41.129)
+- -L (man sivut) eli syntaksi olisi "smbclient -L <kohdeosoite> (10.129.41.129) https://linux.die.net/man/1/smbclient
 
 <br>
 
