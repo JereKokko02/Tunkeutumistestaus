@@ -105,4 +105,17 @@ Task 5: How many shares are there on Dancing?
 
 # b) HTB Responder. Ratkaise HackTheBox.com: Starting Point: Tier 1: Responder.
 
-Task 1: When visiting the web service using the IP address, what is the domain that we are being redirected to?
+Kone käynnistettiin samalla tavalla kuin aikaisemmin.
+
+## Task 1: When visiting the web service using the IP address, what is the domain that we are being redirected to?
+
+- unika.htb
+
+![image](https://github.com/user-attachments/assets/bb5d9029-9293-4b42-8438-04f254aa159a)
+
+## Task 2: 
+
+- PHP
+
+## Task 3: 
+
