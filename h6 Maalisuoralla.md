@@ -64,32 +64,45 @@ Videon linkki: https://youtu.be/KNlKXHaxSWs
 Hackthebox tehtävä Three https://app.hackthebox.com/starting-point
 
 
-Task 1: How many TCP ports are open?
+# Task 1: How many TCP ports are open?
 
 2
 
 ![image](https://github.com/user-attachments/assets/2ce8f009-c701-49ba-8163-fbc107a9719e)
 
+<br>
 
-Task 2: What is the domain of the email address provided in the "Contact" section of the website?
+# Task 2: What is the domain of the email address provided in the "Contact" section of the website?
 
 ![image](https://github.com/user-attachments/assets/cc093dc8-d1e9-4e33-8d25-5e57f9fe2f18)
 
 thetoppers.htb
 
+<br>
+
 Task 3: In the absence of a DNS server, which Linux file can we use to resolve hostnames to IP addresses in order to be able to access the websites that point to those hostnames?
 
 etc/hosts
+
+<br>
 
 Task 4: Which sub-domain is discovered during further enumeration?
 
 ![image](https://github.com/user-attachments/assets/decd8741-c6a3-48b2-b30f-360880178fd4)
 
+<br>
+
+Tähän kohtaan jäin jumiin sillä lataamani subdomain tekstilista oli liian suuri ffuffille. Antoi token too long erroria jatkuvasti jostakin syystä. Ratkaisun saa ajamalla "-mc all" komennon fuffilla ja sitten selaa kaikki tulokset läpi yksitellen. Tässä vaiheessa hermot ja aikataulu oli niin kireelle että päätin ryhtyä seuraavaan hommaan. 
+
+<br>
+
+![image](https://github.com/user-attachments/assets/16472936-bb81-4c9a-beb9-dc7a2d1a14cf)
+
+<br>
 
 Task 5: Which service is running on the discovered sub-domain?
 
 Task 6: Which command line utility can be used to interact with the service running on the discovered sub-domain?
-
 
 Task 7: Which command is used to set up the AWS CLI installation?
 
