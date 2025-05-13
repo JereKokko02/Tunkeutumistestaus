@@ -28,17 +28,31 @@ Task 1
 
 How many TCP ports are open?
 
+2
+
+![image](https://github.com/user-attachments/assets/2ce8f009-c701-49ba-8163-fbc107a9719e)
+
+
 Task 2
 
 What is the domain of the email address provided in the "Contact" section of the website?
+
+![image](https://github.com/user-attachments/assets/cc093dc8-d1e9-4e33-8d25-5e57f9fe2f18)
+
+thetoppers.htb
 
 Task 3
 
 In the absence of a DNS server, which Linux file can we use to resolve hostnames to IP addresses in order to be able to access the websites that point to those hostnames?
 
+etc/hosts
+
 Task 4
 
 Which sub-domain is discovered during further enumeration?
+
+![image](https://github.com/user-attachments/assets/decd8741-c6a3-48b2-b30f-360880178fd4)
+
 
 Task 5
 
