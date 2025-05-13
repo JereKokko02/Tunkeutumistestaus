@@ -92,7 +92,7 @@ Task 4: Which sub-domain is discovered during further enumeration?
 
 <br>
 
-Tähän kohtaan jäin jumiin sillä lataamani subdomain tekstilista oli liian suuri ffuffille. Antoi token too long erroria jatkuvasti jostakin syystä. Ratkaisun saa ajamalla "-mc all" komennon fuffilla ja sitten selaa kaikki tulokset läpi yksitellen. Tässä vaiheessa hermot ja aikataulu oli niin kireelle että päätin ryhtyä seuraavaan hommaan. 
+Tähän kohtaan jäin jumiin sillä kun common.txt:n kokeilun jälkeen lataamani subdomain tekstilista oli liian suuri ffuffille. Antoi token too long erroria jatkuvasti jostakin syystä. Ratkaisun saa ajamalla "-mc all" komennon fuffilla ja sitten selaa kaikki tulokset läpi yksitellen. Tässä vaiheessa kuitenkin hermot ja aikataulu oli niin kireellä että päätin ryhtyä seuraavaan hommaan. 
 
 <br>
 
@@ -109,3 +109,11 @@ Task 7: Which command is used to set up the AWS CLI installation?
 Task 8: What is the command used by the above utility to list all of the S3 buckets?
 
 Task 9: This server is configured to run files written in what web scripting language?
+
+
+# Lisälähteet:
+1. https://linuxcommandlibrary.com/man/ffuf | Luettu 12.5.2025
+
+
+
+
